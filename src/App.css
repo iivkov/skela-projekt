@@ -273,7 +273,7 @@ textarea {
 .accessibility-menu {
   position: fixed;
   top: 110px;
-  left: 10px;
+  left: 0;
   z-index: 1;
 }
 
