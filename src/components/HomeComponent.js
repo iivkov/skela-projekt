@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import '../App.css';
 import EUnoteSite from './EUnoteSite';
 // import slika from '../assets/skela1.jpg';
-// import slika from '../assets/anigif.gif';
-import slika from '../assets/crkva sv. Marka(2).jpg';
+import slika from '../assets/anigif.gif';
+// import slika from '../assets/crkva sv. Marka(2).jpg';
 
 const HomeComponent = () => {
     const [animate, setAnimate] = useState(false);

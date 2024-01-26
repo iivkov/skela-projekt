@@ -1,7 +1,6 @@
 import React, {useState, useEffect } from 'react';
 import '../App.css';
-// import slika from '../assets/skela2.jpg';
-import slika from '../assets/crkva sv. Marka(2).jpg';
+import slika from '../assets/anigif.gif';
 
 const AboutComponent = () => {
     const [animate, setAnimate] = useState(false);
