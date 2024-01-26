@@ -5,7 +5,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import HomeComponent from "./components/HomeComponent";
 import AboutComponent from './components/AboutComponent';
-import InformationComponent from './components/InformationComponent';
+import ReferencesComponent from './components/ReferencesComponent';
 import ProjectsComponent from './components/ProjectsComponent';
 import ContactComponent from './components/ContactComponent';
 import AccessibilityMenu from './components/AccessibilityMenu';
@@ -59,7 +59,7 @@ function App() {
         <Routes>
           <Route path="/" exact element={<HomeComponent/>} />
           <Route path="/o-nama" element={<AboutComponent/>} />
-          <Route path="/podatci" element={<InformationComponent/>} />
+          <Route path="/reference" element={<ReferencesComponent/>} />
           <Route path="/EU-projekti" element={<ProjectsComponent/>} />
           <Route path="/kontakt" element={<ContactComponent/>} />
         </Routes>

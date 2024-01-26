@@ -31,7 +31,7 @@ const Navbar = () => {
           <NavLink to="/o-nama">O nama</NavLink>
         </li>
         <li>
-          <NavLink to="/podatci">Osnovni podatci</NavLink>
+          <NavLink to="/reference">Reference</NavLink>
         </li>
         <li>
           <NavLink to="/EU-projekti">EU projekti</NavLink>

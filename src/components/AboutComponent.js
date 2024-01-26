@@ -1,6 +1,7 @@
 import React, {useState, useEffect } from 'react';
 import '../App.css';
-import slika from '../assets/anigif.gif';
+import slika from '../assets/omisalj Janaf(3).jpg';
+import Information from './Information';
 
 const AboutComponent = () => {
     const [animate, setAnimate] = useState(false);
@@ -14,17 +15,19 @@ const AboutComponent = () => {
                 <h1>O nama</h1>
                 <div className="container">
                     <div className={`box left ${animate ? 'enter' : 'left-enter'}`}>
-                        <p>Skela Projekt d.o.o. je građevinska tvrtka sa sjedištem u Zagrebu, osnovana 2017. godine.  Osnovne djelatnosti kojima se bavimo su montaža i najam građevinskih skela. 
-                            Tijekom godina, zahvaljujući kvalitetnom radu, zadovoljstvu klijenata i uspješnom poslovanju naša tvrtka proširila je svoje kapacitete te otvorila podružnicu u Petrinji. 
-                            Također posjedujemo svoje skladište sa svim pratećim objektima. Naša uspješnost temelji se na poštovanju, predanosti poslu i povjerenju samih zaposlenika te klijenata s druge strane. 
-                            Posebno se ističemo po kompleksnim radovima, poput viseće skele na mostovima, kratkim rokovima obavljanja poslova, konkurentnim cijenama te radovima na velikim i važnim ustanovama po cijeloj Hrvatskoj 
-                            (Sabor, Radar MORH Učka, Sljeme-mali toranj, dalekovodi Karlovac – Lučko).</p>
+                        <h2>Misija</h2>
+                        <p>Misija tvrtke Skela Projekt d.o.o. je sigurnost i kvaliteta u pružanju građevinskih usluga, uz poštivanje vremenskih definiranih rokova. 
+                            Pružanje kvalitetne te profesionalne usluge, uz osposobljene zaposlenike s dugogodišnjim iskustvom rada.</p>
+                        <h2>Vizija</h2>
+                        <p>Kontinuirana poslovna izvornost i kvaliteta u izvođenju radova, teži se prema uspjehu, usavršavanju te nadogradnji postojećih znanja. 
+                            Postojanošću, pouzdanošću te kvalitetom usluga zadovoljavamo i najkompleksnije poslovne zahtjeve naših klijenata.</p>
                     </div>
                 <div className="spacer"></div>
-                    <div id="box-image" className={`box right ${animate ? 'enter' : 'right-enter'}`}>
+                    <div className={`box right ${animate ? 'enter' : 'right-enter'}`}>
                         <img src={slika} className="img-article" alt="Stup vijadukta ili nadvožnjaka obložen građevinskim skelama." />
                     </div>
                 </div>
+                <Information />
             </div>
     );
 }
