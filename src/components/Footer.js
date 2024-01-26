@@ -17,7 +17,7 @@ const Footer = () => {
         </a>
       </p>
       <p className="p-footer">&copy; {year} SKELA PROJEKT d.o.o.</p>
-      <p className="p-footer">+385 (0)99 535 1688 | skela.projekt2017@gmail.com</p>
+      <p className="p-footer">+385 (0)98 924 6798 | skela.projekt2017@gmail.com</p>
       <p className="p-footer">Sadržaj internetske stranice isključiva je odgovornost tvrtke SKELA PROJEKT d.o.o.</p>
     </div>
   </div>

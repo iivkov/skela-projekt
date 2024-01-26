@@ -321,3 +321,14 @@ textarea {
   background-color: var(--navbar-footer-color);
   color: white;
 }
+
+/* problem uspravnih slika */
+#box-image-left {
+  display: flex;
+  justify-content: flex-end;
+};
+
+.img-article {
+  width: auto;
+  height: 100%;
+}

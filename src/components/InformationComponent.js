@@ -21,7 +21,7 @@ const InformationComponent = () => {
                 <p>Mobitel: +385 (0)99 535 1688</p>
                 <p>E-pošta: skela.projekt2017@gmail.com</p>
             </div>
-            {/* <div className="spacer"></div> */}
+            <div className="spacer"></div>
             <div className={`box right ${animate ? 'enter' : 'right-enter'}`}>
                 <p>Ključna osoba: Blago Gudelj</p>
                 <p>Godina osnutka: 2016.</p>
