@@ -129,6 +129,10 @@ body {
   flex-basis: 100%;
 }
 
+.social-icon {
+  padding: 5px
+}
+
 /* novo */
 
 .EU-note {
