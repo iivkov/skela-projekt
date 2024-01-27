@@ -187,7 +187,6 @@ p {
   padding: 20px;
   margin: 20px;
   text-align: justify;
-  /* border: 1px solid #ccc; */
 }
 
 @media (max-width: 768px) {
@@ -334,13 +333,49 @@ textarea {
 }
 
 /* tablica referenci */
-table {
+
+.table {
   width: 60%;
   margin: auto;
   border-collapse: collapse;
+  margin-bottom: 20px;
+  transition: opacity 1s ease-in-out;
 }
 td, th {
   border: 1px solid #ddd;
   padding: 8px;
   text-align: center;
+}
+
+/* galerija */
+@media (max-width: 768px) {
+  .gallery {
+    padding: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .gallery {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+  }
+}
+
+.lg-react-element {
+  column-count: 3;
+  column-gap: 10px;
+}
+
+.gallery-img {
+  max-width: 100%;
+  display: block;
+  padding: 5px 0px;
+  border-radius: 20px;
+  transition: transform 0.2s;
+}
+
+.gallery-img:hover {
+  filter: opacity(.9);
+  transform: scale(1.01);
 }

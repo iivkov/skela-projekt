@@ -1,6 +1,6 @@
 import '../App.css';
-import { ReactComponent as FacebookLogo } from '../assets/facebook_logo.svg';
-import { ReactComponent as TikTokLogo } from '../assets/tiktok_logo.svg';
+import { ReactComponent as FacebookLogo } from '../assets/icons/facebook_logo.svg';
+import { ReactComponent as TikTokLogo } from '../assets/icons/tiktok_logo.svg';
 
 const Footer = () => {
   const year = new Date().getFullYear();

@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import { ReactComponent as HamburgerLogo } from '../assets/hamburger_logo.svg';
+import { ReactComponent as HamburgerLogo } from '../assets/icons/hamburger_logo.svg';
 import CompanyLogo from '../assets/Skela_logo2transparent.png';
 import '../App.css';
 

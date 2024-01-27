@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import '../App.css';
+import { Gallery } from './Gallery';
 
 const ReferencesComponent = () => {
     const [data, setData] = useState([]);
@@ -19,7 +20,7 @@ const ReferencesComponent = () => {
     <div className="main_content">
         <h1>Reference</h1>
         <div className="container">
-            <table>
+            <table className="table">
                 <thead>
                     <tr>
                         <th>godina</th>
@@ -37,6 +38,7 @@ const ReferencesComponent = () => {
                     ))}
                 </tbody>
             </table>
+            <Gallery />
         </div>
     </div>
     );
