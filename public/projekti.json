@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "godina": "2017.",
+      "projekt": "Vodotoranj u Vrbanji",
+      "opis": "rekonstrukcija i sanacija"
+    },
+    {
+      "id": 2,
+      "godina": "2018.",
+      "projekt": "Crkva Presvetog Trojstva u Legradu",
+      "opis": "unutarnji radovi montaže"
+    },
+    {
+      "id": 3,
+      "godina": "2019.",
+      "projekt": "Hidroelektrana Dubrovnik",
+      "opis": "sanacija nakon požara, montaža i demontaža"
+    },
+    {
+      "id": 4,
+      "godina": "2019.",
+      "projekt": "Silosi za sol u Maslenici",
+      "opis": "rekonstrukcija i sanacija"
+    },
+    {
+      "id": 5,
+      "godina": "2023.",
+      "projekt": "Crkva sv. Marka u Zagrebu",
+      "opis": "montaža i demontaža"
+    },
+    {
+      "id": 6,
+      "godina": "2023.",
+      "projekt": "JANAF – Terminal Omišalj",
+      "opis": "rekonstrukcija, sanacija i održavanje"
+    },
+    {
+      "id": 7,
+      "godina": "2023.",
+      "projekt": "Most Kupa u Karlovcu",
+      "opis": "viseća skela"
+    },
+    {
+      "id": 8,
+      "godina": "2023.",
+      "projekt": "Tvornica Zvijezda u Zagrebu",
+      "opis": "montaža i demontaža"
+    },
+    {
+      "id": 9,
+      "godina": "2023.",
+      "projekt": "Vijadukt Golubinjak u Delnicama",
+      "opis": "montaža"
+    },
+    {
+      "id": 10,
+      "godina": "2023.",
+      "projekt": "Most slobode u Zagrebu",
+      "opis": "viseća skela"
+    }
+  ]
+  

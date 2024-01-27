@@ -332,3 +332,15 @@ textarea {
   width: auto;
   height: 100%;
 }
+
+/* tablica referenci */
+table {
+  width: 60%;
+  margin: auto;
+  border-collapse: collapse;
+}
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
