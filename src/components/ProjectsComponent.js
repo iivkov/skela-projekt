@@ -25,9 +25,9 @@ const ProjectsComponent = () => {
             {/* <div className="spacer"></div> */}
             <div className="box">
                 <h3>Vrijeme provedbe</h3>
-                <p>Početak provedbe: NN.NN.NNNN.</p>
-                <p>Kraj provedbe: NN.NN.NN.</p>
-                <p>Trajanje provedbe (mjeseci): NN</p>
+                <p>Početak provedbe: 18.04.2022.</p>
+                <p>Kraj provedbe: 18.11.2023.</p>
+                <p>Trajanje provedbe (mjeseci): 19</p>
             </div>
         </div>
         <EUnoteProject />
