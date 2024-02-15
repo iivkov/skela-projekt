@@ -32,14 +32,14 @@ const ProjectsComponent = () => {
                 <p>Telefon: +385 995351688</p>
                 <p>Odgovorna osoba: BLAGO GUDELJ</p>
             </div>
-            <div className="box">
+            <div className="box-EU">
                 <h3>Vrijeme provedbe</h3>
                 <p>Početak provedbe: 18.04.2022.</p>
                 <p>Kraj provedbe: 18.11.2023.</p>
                 <p>Trajanje provedbe (mjeseci): 19</p>
             </div>
             {/* <div className="spacer"></div> */}
-            <div className="box">
+            <div className="box-EU">
                 <h3>Informacije o troškovima</h3>
                 <p>Ukupni prihvatljivi troškovi (EUR): 204.074,10</p>
                 <p>Ukupna bespovratna sredstva (EUR): 173.462,98 (EU sufinanciranje)</p>
