@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import EUnoteSite from './EUnoteSite';
 import '../App.css';
 import { Gallery } from './Gallery';
 
@@ -18,6 +19,7 @@ const ReferencesComponent = () => {
     
     return (
     <div className="main_content">
+        <EUnoteSite/>
         <h1>Reference</h1>
         <div className="container">
             <table className="table">

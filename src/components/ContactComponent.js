@@ -1,4 +1,5 @@
 import React, {useState, useEffect, useRef } from "react";
+import EUnoteSite from './EUnoteSite';
 import emailjs from '@emailjs/browser';
 import '../App.css';
 
@@ -29,6 +30,7 @@ const ContactComponent = () => {
 
 	return (
     <div className="main_content">
+        <EUnoteSite/>
         <h1>Kontakt</h1>
         <div className="container">
             <div className={`box left ${animate ? 'enter' : 'left-enter'}`}>
