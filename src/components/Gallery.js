@@ -33,13 +33,13 @@ import slika12 from '../assets/JANAF, Omišalj/omisalj Janaf(2).jpg'
 import slika14 from '../assets/JANAF, Omišalj/omisalj JANAF(4).jpg'
 import slika15 from '../assets/JANAF, Omišalj/omisalj JANAF(5).jpg'
 
-import slika16 from '../assets/Vijadukt Golubinjak, Delnice/nadvoznjak Delnice.JPG'
-import slika17 from '../assets/Vijadukt Golubinjak, Delnice/nadvoznajk Delnice.JPG'
-import slika18 from '../assets/Vijadukt Golubinjak, Delnice/nadvoznjak Delnice(1).JPG'
-import slika19 from '../assets/Vijadukt Golubinjak, Delnice/nadvoznjak Delnice(2).JPG'
+import slika16 from '../assets/Nadvožnjak Delnice/nadvoznjak Delnice.JPG'
+import slika17 from '../assets/Nadvožnjak Delnice/nadvoznajk Delnice.JPG'
+import slika18 from '../assets/Nadvožnjak Delnice/nadvoznjak Delnice(1).JPG'
+import slika19 from '../assets/Nadvožnjak Delnice/nadvoznjak Delnice(2).JPG'
 
-import slika20 from '../assets/Crkva Presvetog Srca Isusova, Legrad/Ludbreg.jpg'
-import slika21 from '../assets/Crkva Presvetog Srca Isusova, Legrad/Ludbreg Crkva.jpg'
+import slika20 from '../assets/Crkva u Ludbregu/Ludbreg.jpg'
+import slika21 from '../assets/Crkva u Ludbregu/Ludbreg Crkva.jpg'
 
 import slika22 from '../assets/Most Kupa D1, Karlovac/most Karlovac.jpg'
 import slika23 from '../assets/Most Kupa D1, Karlovac/most Karlovac(1).jpg'
@@ -62,12 +62,12 @@ const images = [
     // { src: slika13, alt: "Terminal JANAF, Omišalj" },
     { src: slika14, alt: "Terminal JANAF, Omišalj" },
     { src: slika15, alt: "Terminal JANAF, Omišalj" },
-    { src: slika16, alt: "Vijadukt Golubinjak, Delnice" },
-    { src: slika17, alt: "Vijadukt Golubinjak, Delnice" },
-    { src: slika18, alt: "Vijadukt Golubinjak, Delnice" },
-    { src: slika19, alt: "Vijadukt Golubinjak, Delnice" },
-    { src: slika20, alt: "Crkva Presvetog Srca Isusova, Legrad" },
-    { src: slika21, alt: "Crkva Presvetog Srca Isusova, Legrad" },
+    { src: slika16, alt: "Nadvožnjak Delnice" },
+    { src: slika17, alt: "Nadvožnjak Delnice" },
+    { src: slika18, alt: "Nadvožnjak Delnice" },
+    { src: slika19, alt: "Nadvožnjak Delnice" },
+    { src: slika20, alt: "Crkva u Ludbregu" },
+    { src: slika21, alt: "Crkva u Ludbregu" },
     { src: slika22, alt: "Most Kupa, Karlovac" },
     { src: slika23, alt: "Most Kupa, Karlovac" },
     { src: slika24, alt: "Most Kupa, Karlovac" },

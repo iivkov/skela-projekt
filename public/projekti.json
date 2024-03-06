@@ -8,7 +8,7 @@
     {
       "id": 2,
       "godina": "2018.",
-      "projekt": "Crkva Presvetog Trojstva u Legradu",
+      "projekt": "Crkva u Ludbregu",
       "opis": "unutarnji radovi montaže"
     },
     {
@@ -50,13 +50,13 @@
     {
       "id": 9,
       "godina": "2023.",
-      "projekt": "Vijadukt Golubinjak u Delnicama",
+      "projekt": "Nadvožnjak Delnice",
       "opis": "montaža"
     },
     {
       "id": 10,
       "godina": "2023.",
-      "projekt": "Most slobode u Zagrebu",
+      "projekt": "Most mladosti u Zagrebu",
       "opis": "viseća skela"
     }
   ]
