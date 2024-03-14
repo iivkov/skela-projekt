@@ -100,6 +100,173 @@ const ProjectsComponent = () => {
                 <p>Ukupna vrijednost projekta (EUR): 258.494,53</p>
             </div>
         </div>
+        <div className="bottom-border" / >
+        <div className="container">
+            <div className="activity-box">
+                <p>Prijavitelj, gospodarski subjekt SKELA PROJEKT d.o.o. za građenje, usluge i trgovinu; OIB:  13198820346; sa sjedištem na adresi: Zagreb (Grad Zagreb), 
+                    Ulica Kate Mlinarić 4 ovim projektnim prijedlogom želi u provedbi projekta provesti niz aktivnosti, kojima bi nabavio nove robe i/ili usluge kako slijedi:</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>AKTIVNOST: 1. Ulaganje u materijalnu imovinu; u ovoj aktivnosti se nabavlja:</h3>
+                <p>- Regalno dizalo za građevinarstvo, 1 kom</p>
+                <p>- Građevinska skela komplet, 1 kom</p>
+                <p>- Laptop, 1 kom</p>
+                <p>Planirano je da navedena aktivnost traje: *9 mjeseci*.</p>
+                <p>OPIS: planirana je nabava novih roba i/ili usluga. Ostvarivanjem te nabave Prijavitelj će povećati svoje kapacitete za pružanje usluga, 
+                    očuvat će se postojeća radna mjesta, otvorit će se nova radna mjesta, povećat će se prihod Prijavitelja, konkurentnost na postojećem i 
+                    novom mikro i makro tržištu. Djelatnici Prijavitelja će steći nova znanja povezana s korištenjem novih roba i/ili usluga koje se nabavljaju. 
+                    Složeni postupak provedbe svih nabava obavit će vanjski stručnjak, a proračunom je određena cijena njegovog rada.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>AKTIVNOST: 3. Marketing i promocija proizvoda i usluga; u ovoj aktivnosti se nabavlja:</h3>
+                <p>- Troškovi izrade mrežne stranice</p>
+                <p>- Troškovi izrade stranice na FACEBOOK-u</p>
+                <p>- Troškovi reklamnih majica kratkih rukava</p>
+                <p>- Troškovi reklamnih kapa</p>
+                <p>- Troškovi reklamnih kemijskih olovaka</p>
+                <p>Planirano je da navedena aktivnost traje: *6 mjeseci*.</p>
+                <p>OPIS: planirana je nabava novih roba i/ili usluga. Ostvarivanjem te nabave Prijavitelj će povećati svoju vidljivost na mikro i makro tržištu, 
+                    kao i na društvenim mrežama. Djelatnici Prijavitelja će steći nova znanja povezana s korištenjem novih roba i/ili usluga koje se nabavljaju. 
+                    Promidžbeni materijal dijelit će se poslovnim partnerima. Složeni postupak provedbe svih nabava obavit će vanjski stručnjak, a proračunom je 
+                    određena cijena njegovog rada.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>AKTIVNOST: 4. Edukacije, stručno osposobljavanje i stjecanje novih znanja zaposlenika (ukupna vrijednost bez PDV-a: 120.000,00 kn); u ovoj aktivnosti se nabavlja:</h3>
+                <p>- Troškovi stjecanja znanja iz područja uvođenja novih proizvodnih procesa</p>
+                <p>- Troškovi stjecanja znanja iz područja organizacije poslovanja</p>
+                <p>Planirano je da navedena aktivnost traje: *6 mjeseci*.</p>
+                <p>OPIS: planirana je nabava novih roba i/ili usluga. Ostvarivanjem te nabave djelatnici Prijavitelja će steći nova stručna znanja i biti u prilici 
+                    rada sa novim proizvodnim procesima i organizacijom poslovanja, što do završetka ovog projekta nije bio slučaj. Složeni postupak provedbe svih nabava
+                    obavit će vanjski stručnjak, a proračunom je određena cijena njegovog rada.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>AKTIVNOST: 5. Prijava na Poziv; u ovoj aktivnosti se nabavlja:</h3>
+                <p>- Troškovi usluga pripreme projektnog prijedloga (vanjski stručnjak)</p>
+                <p>Planirano je da navedena aktivnost traje: *1 mjesec, ali prije predaje projektnog prijedloga u službenu aplikaciju*.</p>
+                <p>OPIS: planirana je nabava novih roba i/ili usluga. Ostvarivanjem te nabave članovi projektnog tima će steći nova stručna. Složeni postupak provedbe 
+                    svih nabava obavit će vanjski stručnjak, a proračunom je određena cijena njegovog rada.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>AKTIVNOST: 7. Provedba postupka nabave za potrebe projekta; u ovoj aktivnosti se nabavlja:</h3>
+                <p>- Troškovi povezani s provedbom postupka nabave za potrebe projekta (vanjski stručnjak)</p>
+                <p>Planirano je da navedena aktivnost traje: *3 mjeseca*.</p>
+                <p>OPIS: planirana je nabava novih roba i/ili usluga. Ostvarivanjem te nabave članovi projektnog tima će steći nova stručna. Složeni postupak provedbe svih 
+                    nabava obavit će vanjski stručnjak, a proračunom je određena cijena njegovog rada.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>AKTIVNOST: 9. Upravljanje i rad na projektu, a) troškovi usluga za upravljanje projektom; u ovoj aktivnosti se nabavlja:</h3>
+                <p>- Troškovi usluga za upravljanje projektom (vanjski stručnjak)</p>
+                <p>Planirano je da navedena aktivnost traje: *9 mjeseci*</p>
+                <p>OPIS: planirana je nabava novih roba i/ili usluga. Ostvarivanjem te nabave članovi projektnog tima će steći nova stručna. Složeni postupak provedbe svih nabava obavit će vanjski stručnjak, a proračunom 
+                    je određena cijena njegovog rada.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>AKTIVNOST: 10. Promicanje horizontalnih načela; u ovoj aktivnosti se nabavlja:</h3>
+                <p>- Troškovi vezani uz aktivnosti promicanja horizontalnih načela</p>
+                <p>Planirano je da navedena aktivnost traje: *6 mjeseci*.</p>
+                <p>OPIS: planirana je nabava novih roba i/ili usluga. Ostvarivanjem te nabave djelatnici Prijavitelja će steći nova stručna povezana s ranjivim skupinama društva. Složeni postupak provedbe svih nabava 
+                    obavit će vanjski stručnjak, a proračunom je određena cijena njegovog rada.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>AKTIVNOST: 11. Informiranje i vidljivost; u ovoj aktivnosti se nabavlja:</h3>
+                <p>- Informiranje i vidljivost</p>
+                <p>Planirano je da navedena aktivnost traje: *9 mjeseci*.</p>
+                <p>OPIS: planirana je nabava novih roba i/ili usluga. Ostvarivanjem te nabave Prijavitelj će povećati svoju vidljivost na mikro i makro tržištu, kao i na društvenim mrežama. Djelatnici Prijavitelja će steći 
+                    nova znanja povezana s korištenjem novih roba i/ili usluga koje se nabavljaju. Promidžbeni materijal dijelit će se poslovnim partnerima. Složeni postupak provedbe svih nabava obavit će vanjski stručnjak, 
+                    a proračunom je određena cijena njegovog rada.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <p>Planirano je da provedba projektnog prijedloga ukupno traje 9 mjeseci.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>Nova tržišta:</h3>
+                <p>MIKRO TRŽIŠTE: grad Petrinja i njegova naselja.</p>
+                <p>MAKRO TRŽIŠTE: ŽUPANIJA - III. SISAČKO-MOSLAVAČKA; ŽUPANIJA - IV. KARLOVAČKA; ŽUPANIJA - I. ZAGREBAČKA; ŽUPANIJA - XXI. GRAD ZAGREB.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <p>IZVOZ: Prijavitelj nije izvozio robe i/ili usluge.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <p>Prijavitelj će tijekom provedbe projektnog prijedloga i nakon njega, voditi računa o utjecaju projekta na okoliš, i to:</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>1. utjecaj na ZRAK:</h3>
+                <p>- tijekom provedbe: 2 (veoma mali utjecaj),</p>
+                <p>- nakon provedbe: 2 (veoma mali utjecaj);</p>
+                <p>OPIS: doći će do povećanja onečišćenja zraka ispušnim plinovima zbog povećanja poslova koje Prijavitelj izvodi. Novim nabavama će se smanjiti negativan utjecaj projekta na ZRAK.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>2. utjecaj na TLO:</h3>
+                <p>- tijekom provedbe: 2 (veoma mali utjecaj),</p>
+                <p>- nakon provedbe: 3 (mali utjecaj);</p>
+                <p>OPIS: doći će do povećanja onečišćenja tla zbog tehničkih voda koje nastaju tijekom rada i to radi povećanja poslova koje Prijavitelj izvodi.
+                    Novim nabavama će se smanjiti negativan utjecaj projekta na TLO.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>3. utjecaj na VODA:</h3>
+                <p>- tijekom provedbe: 2 (veoma mali utjecaj),</p>
+                <p>- nakon provedbe: 2 (veoma mali utjecaj);</p>
+                <p>OPIS: doći će do gotovo nikakvoga ili izrazito malenoga onečišćenja podzemnih voda koje nastaju tijekom rada i to radi povećanja poslova 
+                    koje Prijavitelj izvodi. Novim nabavama će se smanjiti negativan utjecaj projekta na VODA.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>4. utjecaj na KULTURNA BAŠTINA:</h3>
+                <p>- tijekom provedbe: 0 (nema utjecaja),</p>
+                <p>- nakon provedbe: 0 (nema utjecaja);</p>
+                <p>OPIS: ne će doći do bilo kakvog negativnog utjecaja rada i to radi povećanja poslova koje Prijavitelj izvodi. 
+                    Novim nabavama će se smanjiti negativan utjecaj projekta na KULTURNA BAŠTINA</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>5. utjecaj na OTPAD:</h3>
+                <p>- tijekom provedbe: 2 (veoma mali utjecaj),</p>
+                <p>- nakon provedbe: 2 (veoma mali utjecaj);</p>
+                <p>OPIS: doći će do povećanja stvaranja otpada koji će nastati tijekom rada i to radi povećanja poslova koje Prijavitelj izvodi. 
+                    Svakodnevno će se otpad selektirati i odlagati na za to predviđeno odlagalište. Novim nabavama će se smanjiti negativan utjecaj projekta na OTPAD.</p>
+            </div>
+        </div>
+        <div className="container">
+            <div className="activity-box">
+                <h3>6. utjecaj na ZDRAVLJE:</h3>
+                <p>- tijekom provedbe: 1 (zanemarivi utjecaj),</p>
+                <p>- nakon provedbe: 1 (zanemarivi utjecaj);</p>
+                <p>OPIS: neće doći do povećanja negativnog utjecaja na zdravlje ljudi tijekom rada i to radi povećanja poslova koje Prijavitelj izvodi. 
+                    Novim nabavama će se smanjiti negativan utjecaj projekta na ZDRAVLJE.</p>
+            </div>
+        </div>
         <EUnoteProject />
     </div>
     );
