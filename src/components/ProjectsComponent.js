@@ -87,6 +87,7 @@ const ProjectsComponent = () => {
                 <p>Prijavitelj: SKELA PROJEKT d.o.o. za građenje, usluge i trgovinu</p>
                 <p>Jedinstveni broj prijavitelja: 13198820346</p>
                 <p>Adresa: Ulica Kate Mlinarić 4, Zagreb</p>
+                <p>OIB: 13198820346</p>
                 <p>E-pošta: blagogudelj@gmail.com</p>
                 <p>Telefon: +385 995351688</p>
                 <p>Odgovorna osoba: BLAGO GUDELJ</p>
